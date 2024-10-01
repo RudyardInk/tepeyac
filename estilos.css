@@ -31,6 +31,15 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 	background: #dbcece;
+	
+		font-family: "Afacad Flux", system-ui;
+		font-optical-sizing: auto;
+		font-weight: weight;
+		font-style: normal;
+		font-variation-settings:
+		  "slnt" 0;
+	  
+	  
 }
 ol, ul {
 	list-style: none;
@@ -52,7 +61,7 @@ div{
     display: block;
 }
 .container {
-	background: #756363;
+	background: #6b9067;
     font-size: 1rem;
     padding-left: 50px;
 	padding-right: 50px;
